@@ -1,6 +1,6 @@
 # React-Query(Tanstack-Query)
 
-[React-Query(Tanstack-Query) 공식문서](https://tanstack.com/query/latest/docs/react/overview) 리딩을 통해 더 나은 코드를 작성하고자 학습합니다.
+[React-Query(Tanstack-Query) 공식문서](https://tanstack.com/query/latest/docs/react/overview) 리딩을 통해 React-Query를 더 잘 사용하고자 학습합니다.
 
 ## ✏️ Written by
 <a href="https://github.com/HwangSunBeom">
